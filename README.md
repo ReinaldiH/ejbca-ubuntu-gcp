@@ -70,6 +70,9 @@ sudo systemctl status docker
 sudo docker pull keyfactor/ejbca-ce
 ```
 
+![Pull EJBCA Docker](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*NbKXcVQFGN3NnX8-xOZfCw.png)
+
+
 ## 5. Running the EJBCA Container
 ```bash
 docker run -it --rm -p 80:8080 -p 443:8443 -h localhost -e TLS_SETUP_ENABLED="true" keyfactor/ejbca-ce
