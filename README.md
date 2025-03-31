@@ -42,6 +42,8 @@ curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo gpg --dearmor -o 
 echo "deb [arch=$(dpkg --print-architecture) signed-by=/usr/share/keyrings/docker-archive-keyring.gpg] https://download.docker.com/linux/ubuntu $(lsb_release -cs) stable" | sudo tee /etc/apt/sources.list.d/docker.list > /dev/null
 ```
 
+![Repository](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*bTCoAu1UkOH2YstlRxprbQ.png)
+
 4. Update package lists again:
 ```bash
 sudo apt update
