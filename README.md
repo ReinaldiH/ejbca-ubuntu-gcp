@@ -127,7 +127,14 @@ If a security warning appears:
 1. Click **Advanced**
 2. Select **Accept the Risk and Continue**
 
+![Accept](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*HehwTs9q4OfROWF6FnG4mQ.png)
+
+
 ## 10. Installation Successful 🎉
 If everything is set up correctly, the EJBCA Web UI will appear as shown in the following image.
+
+
+![EJBCA WEB UI](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*4Pkg0oKiGJ2T_EbLB04q_Q.png)
+
 
 Congratulations! You have successfully installed EJBCA Community on Ubuntu Server 22.04 LTS using Docker!
