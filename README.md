@@ -54,10 +54,16 @@ sudo apt update
 sudo apt install docker-ce -y
 ```
 
+![Install Docker](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*XnCl8f3JmFN0ESYj4NuW6g.png)
+
+
 6. Ensure Docker is running:
 ```bash
 sudo systemctl status docker
 ```
+
+![Status Docker](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*zn8YzZs71l0hnoY3cunepw.png)
+
 
 ## 4. Pull EJBCA Image from Docker Hub
 ```bash
