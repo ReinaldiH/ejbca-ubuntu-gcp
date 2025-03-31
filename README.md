@@ -16,6 +16,9 @@ sudo apt update && sudo apt upgrade -y
 ```
 If you are using a local server, enter the server password as needed.
 
+![Update OS](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*wakMcMcXe5qFbNoGuLbcCw.png)
+
+
 ## 3. Install Docker
 Next, we will install Docker from the official repository. Follow these steps:
 
