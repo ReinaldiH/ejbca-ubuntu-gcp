@@ -78,7 +78,13 @@ sudo docker pull keyfactor/ejbca-ce
 docker run -it --rm -p 80:8080 -p 443:8443 -h localhost -e TLS_SETUP_ENABLED="true" keyfactor/ejbca-ce
 ```
 
+![Running EJBCA Container](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*9YLnCP6vbQnNpIxDDloqDQ.png)
+
+
 Wait until the process completes and the terminal displays success logs.
+
+![Success](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*BU4HNuaqirQpeak4mKtCvw.png)
+
 
 ## 6. Accessing the EJBCA Web UI
 Once the container is running, copy the URL displayed in the terminal and open it in a browser (Mozilla recommended).
