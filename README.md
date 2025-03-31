@@ -6,6 +6,9 @@ In this guide, I will install EJBCA Community using Ubuntu Server 22.04 LTS. You
 ## 1. Creating an Instance in GCP
 To get started, open your GCP account, create a new instance, select the OS, and configure the specifications according to your needs.
 
+![Create instance](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*jrRkUo1KKS6VhxngLYIsFA.png)
+
+
 ## 2. Update and Upgrade OS
 First, update and upgrade your OS to ensure that all modules and packages are up to date.
 ```bash
