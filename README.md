@@ -103,6 +103,9 @@ Enter the password displayed in the terminal logs as the Enrollment Code.
 
 ![PKCS Logn](https://miro.medium.com/v2/resize:fit:2000/format:webp/1*hPkUa3ebg8SLoXohxR5Y5g.png)
 
+![Download Key](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*KvyEsYQ82n_iimdwS85Bkg.png)
+
+
 
 ## 8. Importing the Certificate into the Browser
 On Mozilla Firefox:
