@@ -114,6 +114,12 @@ On Mozilla Firefox:
 3. Select the downloaded **.p12** file
 4. Enter the password
 
+![Import](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*5lwhx-Y59xWsabLrIj5V8g.png)
+
+![Import 2](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*R1Won_-1fpFHfG4zBPYL-Q.png)
+
+
+
 ## 9. Accessing the EJBCA Web UI
 After importing the certificate, reopen **localhost**, and the EJBCA Web UI should appear.
 
