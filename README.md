@@ -27,10 +27,15 @@ Next, we will install Docker from the official repository. Follow these steps:
 sudo apt install apt-transport-https ca-certificates curl software-properties-common -y
 ```
 
+![Prerequisite Dependencies](https://miro.medium.com/v2/resize:fit:2000/format:webp/1*QuIi169CZm87HpVrWjzg9A.png)
+
 2. Add the Docker GPG key:
 ```bash
 curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo gpg --dearmor -o /usr/share/keyrings/docker-archive-keyring.gpg
 ```
+
+![Docker Key](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*8FvuWfATcIbXdS_337zx5Q.png)
+
 
 3. Add the Docker repository:
 ```bash
