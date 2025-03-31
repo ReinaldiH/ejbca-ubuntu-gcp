@@ -92,6 +92,9 @@ If a security warning appears:
 1. Click **Advanced**
 2. Select **Accept the Risk and Continue**
 
+![Mozzila](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*HgVXMoSUSRMpONPtrYJ5pw.png)
+
+
 ## 7. Superadmin Login
 Enter the password displayed in the terminal logs as the Enrollment Code.
 
